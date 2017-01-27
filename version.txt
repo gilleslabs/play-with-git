@@ -1,3 +1,2 @@
-version 1.1
-This is the first version of my script
-Hi, I'm user2 and happy to update
+version 1.2
+Now releasing version 1.2
